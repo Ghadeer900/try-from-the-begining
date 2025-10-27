@@ -43,7 +43,7 @@ $$
 ROI = \frac{\text{Net Profit}}{\text{Cost of Investment}} \times 100
 $$
 
-### Example Estimation
+### our study case
 
 - **Power used per day:** $17\, \text{LEDs} \times 40\,\text{W} \times 6\,\text{h} = 4,080\,\text{Wh/day} = 4.08\,\text{kWh/day}$
 - **Yearly usage:** $4.08\,\text{kWh/day} \times 365 = 1,489.2\,\text{kWh/year}$
@@ -58,7 +58,7 @@ $$
 - **Annual energy output:** $1,489.2\,\text{kWh/year}$
 - **Estimated benefit:** $\$190.63$
 
-###ROI for Year 1:
+### ROI for Year 1:
 
 $$
 ROI_{\text{Year 1}} = \frac{190.63}{8,648} \times 100 \approx 2.2\\%
