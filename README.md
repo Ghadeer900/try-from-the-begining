@@ -58,7 +58,7 @@ $$
 - **Annual energy output:** $1,489.2\,\text{kWh/year}$
 - **Estimated benefit:** $\$190.63$
 
-ROI for Year 1:
+###ROI for Year 1:
 
 $$
 ROI_{\text{Year 1}} = \frac{190.63}{8,648} \times 100 \approx 2.2\\%
