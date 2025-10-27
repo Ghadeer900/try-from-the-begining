@@ -61,7 +61,7 @@ $$
 ROI for Year 1:
 
 $$
-ROI = \frac{190.63}{8,648} \times 100 \approx 2.2\%
+ROI = \frac{190.63}{8,648} \times 100 \approx 2.2\\%
 $$
 
 
