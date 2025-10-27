@@ -61,8 +61,19 @@ $$
 ROI for Year 1:
 
 $$
-ROI = \frac{190.63}{8,648} \times 100 \approx 2.2\\%
+ROI_{\text{Year 1}} = \frac{190.63}{8,648} \times 100 \approx 2.2\\%
 $$
+
+### ROI After 2 Years
+
+Assuming similar annual revenue the ROI after 2 years is:
+
+$$
+ROI_{\text{Year 2}} = \frac{2 \times 190.63}{8,648} \times 100 \approx 4.4\\%
+$$
+
+This assumes revenue accumulates linearly and no extra costs occur during the 2 years.
+
 
 
 
