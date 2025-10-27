@@ -35,4 +35,35 @@ $$
 T = \frac{59\,000}{5\,152} \approx 11.46\,\text{years}
 $$
 
-All equations will render as mathematical formulas on GitHub when using these dollar signs.
+## ROI (Return on Investment) Calculation
+
+ROI is a measure of the efficiency and profitability of an investment. In our project, it represents the percentage return earned on the total cost of the energy storage system.
+
+The formula for ROI is:
+
+$$
+ROI = \frac{R_{year} - C_{total}}{C_{total}} \times 100\%
+$$
+
+Where:
+- $ROI$ is the Return on Investment (as a percentage).
+- $R_{year}$ is the total revenue or savings generated per year.
+- $C_{total}$ is the total initial project cost (investment).
+
+### Example Calculation
+
+Suppose:
+- $R_{year} = \$5,152$ (annual revenue from electricity)
+- $C_{total} = \$59,000$ (total project cost)
+
+Then:
+
+$$
+ROI = \frac{5,152 - 59,000}{59,000} \times 100\% = \frac{-53,848}{59,000} \times 100\% \approx -91.3\%
+$$
+
+
+---
+
+
+
