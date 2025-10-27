@@ -8,7 +8,7 @@ The payback time is the duration it takes for the project to recover its initial
 We calculate the payback time \( T \) using the formula:
 
 \[
-T = \frac{\text{Initial Investment}}{\text{Annual Net Profit}}
+T = Initial Investment/Annual Net Profit
 \]
 
 Where:
@@ -22,7 +22,7 @@ For our gravity-based energy storage project:
 - The electrical energy generated per cycle is calculated by the mechanical potential energy of the mass:
 
 \[
-E_{mech} = m \cdot g \cdot h
+E{mech} = m*g*h
 \]
 
 where:
@@ -33,16 +33,16 @@ where:
 - Accounting for system efficiency \( \eta \), the usable electrical energy per cycle is:
 
 \[
-E_{elec} = \eta \times E_{mech}
+E{elec} = \eta*E{mech}
 \]
 
 - The total energy generated annually is:
 
 \[
-E_{year} = E_{elec} \times \text{cycles per year}
+E{year} = E{elec} \times \text{cycles per year}
 \]
 
-- Using the local electricity price (e.g., $128.8 per 1000 kWh), the annual revenue is:
+- Using the local electricity price ($128.8 per 1000 kWh), the annual revenue is:
 
 \[
 R_{year} = \frac{E_{year}}{1000} \times 128.8
