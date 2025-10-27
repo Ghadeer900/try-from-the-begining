@@ -37,33 +37,42 @@ $$
 
 ## ROI (Return on Investment) Calculation
 
-ROI is a measure of the efficiency and profitability of an investment. In our project, it represents the percentage return earned on the total cost of the energy storage system.
+Return on Investment (ROI) is a measure of the profitability and efficiency of your investment. It is always presented as a percentage.
 
-The formula for ROI is:
+### Formula
+
+The most common formula for ROI is:
+
+$$
+ROI = \frac{\text{Net Profit}}{\text{Total Cost of Investment}} \times 100\%
+$$
+
+Where:
+- Net Profit = Total Revenue or Savings $-$ Total Cost of Investment
+- Total Cost of Investment = All costs needed to build and run the system
+
+Or, equivalently:
 
 $$
 ROI = \frac{R_{year} - C_{total}}{C_{total}} \times 100\%
 $$
 
 Where:
-- $ROI$ is the Return on Investment (as a percentage).
-- $R_{year}$ is the total revenue or savings generated per year.
-- $C_{total}$ is the total initial project cost (investment).
+- $R_{year}$ is the revenue or savings earned over a year (or another period)
+- $C_{total}$ is the total initial investment
 
-### Example Calculation
-
-Suppose:
-- $R_{year} = \$5,152$ (annual revenue from electricity)
-- $C_{total} = \$59,000$ (total project cost)
-
-Then:
+### Example
+If your project cost \$59,000 and earns \$5,152 per year:
 
 $$
-ROI = \frac{5,152 - 59,000}{59,000} \times 100\% = \frac{-53,848}{59,000} \times 100\% \approx -91.3\%
+\text{Net Profit} = 5,152 - 59,000 = -53,848
+$$
+
+$$
+ROI = \frac{-53,848}{59,000} \times 100\% \approx -91.3\%
 $$
 
 
----
 
 
 
