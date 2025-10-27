@@ -35,42 +35,35 @@ $$
 T = \frac{59\,000}{5\,152} \approx 11.46\,\text{years}
 $$
 
-## ROI (Return on Investment) Calculation
+## ROI Calculation Method
 
-Return on Investment (ROI) is a measure of the profitability and efficiency of your investment. It is always presented as a percentage.
-
-### Formula
-
-The most common formula for ROI is:
+ROI formula for your project:
 
 $$
-ROI = \frac{\text{Net Profit}}{\text{Total Cost of Investment}} \times 100\%
+ROI = \frac{\text{Net Profit}}{\text{Cost of Investment}} \times 100
 $$
 
-Where:
-- Net Profit = Total Revenue or Savings $-$ Total Cost of Investment
-- Total Cost of Investment = All costs needed to build and run the system
+### Example Estimation
 
-Or, equivalently:
+- **Power used per day:** $17\, \text{LEDs} \times 40\,\text{W} \times 6\,\text{h} = 4,080\,\text{Wh/day} = 4.08\,\text{kWh/day}$
+- **Yearly usage:** $4.08\,\text{kWh/day} \times 365 = 1,489.2\,\text{kWh/year}$
+- **Annual value at $128$/1,000 kWh:** 
+  $$
+  \text{Annual Value} = \frac{1,489.2}{1,000} \times 128 = \$190.63
+  $$
 
-$$
-ROI = \frac{R_{year} - C_{total}}{C_{total}} \times 100\%
-$$
+### Homs City Data
 
-Where:
-- $R_{year}$ is the revenue or savings earned over a year (or another period)
-- $C_{total}$ is the total initial investment
+- **Total investment cost:** \$8,648
+- **Annual energy output:** $1,489.2\,\text{kWh/year}$
+- **Estimated benefit:** $\$190.63$
 
-### Example
-If your project cost \$59,000 and earns \$5,152 per year:
-
-$$
-\text{Net Profit} = 5,152 - 59,000 = -53,848
-$$
+ROI for Year 1:
 
 $$
-ROI = \frac{-53,848}{59,000} \times 100\% \approx -91.3\%
+ROI = \frac{190.63}{8,648} \times 100 \approx 2.2\%
 $$
+
 
 
 
