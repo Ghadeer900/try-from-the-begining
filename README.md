@@ -45,7 +45,7 @@ E{year} = E{elec} \times \text{cycles per year}
 - Using the local electricity price ($128.8 per 1000 kWh), the annual revenue is:
 
 \[
-R_{year} = {E_{year}}{1000} \times 128.8
+R_{year} = {E_{year}}*128.8 / 1000
 \]
 
 - Finally, the payback time is:
